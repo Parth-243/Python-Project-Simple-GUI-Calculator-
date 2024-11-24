@@ -46,7 +46,7 @@ calculator_app/
 1. Clone the repository or download the source code:
 
 ```bash
-git clone https://github.com/yourusername/calculator-app.git
+git clone https://github.com/Parth-243/Python-Project-Simple-GUI-Calculator-.git
 # or download and extract the ZIP file
 ```
 
